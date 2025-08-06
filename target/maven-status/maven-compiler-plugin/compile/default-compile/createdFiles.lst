@@ -1,0 +1,5 @@
+com/mycompany/loyalty/model/LoyaltyCard.class
+com/mycompany/loyalty/controller/LoyaltyCardController.class
+com/mycompany/loyalty/service/LoyaltyCardService.class
+com/mycompany/loyalty/repository/LoyaltyCardRepository.class
+com/mycompany/loyalty/LoyaltyCardManagementApplication.class
